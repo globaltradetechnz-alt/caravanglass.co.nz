@@ -1,0 +1,62 @@
+{
+  "name": "Caravan Glass Replacement",
+  "description": "Auckland specialist company that repairs and replaces all types of broken caravan glass, windscreens, cracked windows, damaged windows, and mouldings. Operating since 2016 with satisfaction guarantee.",
+  "website": "https://caravanglass.co.nz",
+  "contact": {
+    "phone": "0800-757-985",
+    "hours": "7 am – 10 pm, daily",
+    "location": "Auckland, New Zealand"
+  },
+  "services": [
+    {
+      "name": "Caravan Windscreen Replacement",
+      "description": "Front and rear windscreen replacement for all caravan makes and models",
+      "url": "https://caravanglass.co.nz/"
+    },
+    {
+      "name": "Caravan Window Repair",
+      "description": "Side window repair, cracked windows, damaged windows, cloudy or delaminating glass",
+      "url": "https://caravanglass.co.nz/"
+    },
+    {
+      "name": "Glass Scratch & Mark Removal",
+      "description": "Scratched or marked glass restoration and replacement",
+      "url": "https://caravanglass.co.nz/"
+    },
+    {
+      "name": "Moulding & Rubber Replacement",
+      "description": "Replacement or restoring of old mouldings and rubbers",
+      "url": "https://caravanglass.co.nz/"
+    },
+    {
+      "name": "Laminated Glass",
+      "description": "High-quality laminated glass that meets all safety standards",
+      "url": "https://caravanglass.co.nz/"
+    },
+    {
+      "name": "Toughened Glass",
+      "description": "Toughened glass for specific safety needs",
+      "url": "https://caravanglass.co.nz/"
+    },
+    {
+      "name": "Insurance Claims",
+      "description": "Direct insurance billing - we handle all documentation and claims processing",
+      "url": "https://caravanglass.co.nz/"
+    }
+  ],
+  "areas": ["Auckland", "New Zealand"],
+  "specialty": "Caravan and motorhome glass replacement and repair",
+  "established": "2016",
+  "social": {
+    "facebook": "https://www.facebook.com/caravanglassrepair",
+    "twitter": "https://twitter.com/CaravanGlassNZ"
+  },
+  "key_pages": {
+    "homepage": "https://caravanglass.co.nz/",
+    "contact": "https://caravanglass.co.nz/contact_us/",
+    "gallery": "https://caravanglass.co.nz/gallery/"
+  },
+  "sitemap": "https://caravanglass.co.nz/sitemap.xml",
+  "robots": "https://caravanglass.co.nz/robots.txt",
+  "llms": "https://caravanglass.co.nz/llms.txt"
+}
